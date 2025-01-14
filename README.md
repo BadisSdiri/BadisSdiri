@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BadisSdiri?tab=repositories](https://github.com/BadisSdiri?tab=repositories)
 
-- 📝 I regularly write articles on [Robotics operating system](Robotics operating system)
+- 📝 I regularly write articles on [AI in Healthcare]
 
 - 📫 How to reach me **badis.sdiri@enicar.ucar.tn**
 
